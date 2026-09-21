@@ -1,7 +1,5 @@
 # Tugas-2-kelompok-KKA
 
-# Tugas 2 Kelompok — Analisis Data Penjualan Kantin/Toko
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OZA123980/Tugas-2-kelompok-KKA/blob/main/TugasKelompok2.ipynb)
 
 Analisis data penjualan kantin menggunakan Python (pandas) — mulai dari loading & inspection, cleaning, manipulasi data, hingga menjawab pertanyaan analisis awal.
